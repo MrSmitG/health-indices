@@ -64,6 +64,6 @@ Body Mass Index is =>  18.0
 ```
 
 ### Contribution
-
+Smit G
 
 ### Author
